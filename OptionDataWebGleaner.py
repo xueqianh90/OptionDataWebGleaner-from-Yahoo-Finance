@@ -17,7 +17,6 @@ import random
 import matplotlib.pylab as pylab
 import matplotlib.pyplot as plt
 import pandas_datareader.data as web
-import matplotlib.pylab as pylab
 
 
 ########## data crawler ##########
